@@ -6,11 +6,11 @@
                 <input type="text" id="userId" v-model="formData.userId"/>
             </div>
             <div>
-                <label for="title">Post User Id</label>
+                <label for="title">Post title</label>
                 <input type="text" id="title" v-model="formData.title"/>
             </div>
             <div>
-                <label for="body">Post User Id</label>
+                <label for="body">Post body</label>
                 <input type="text" id="body" v-model="formData.body"/>
             </div>
             <button>Create Post</button>
